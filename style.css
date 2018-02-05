@@ -1,0 +1,24 @@
+body {
+    background: #e5e5e5;
+}
+.logo {
+    width: 120px;
+}
+
+.carousel-inner {
+    height: 500px;
+}
+img.card-img-top {
+    height: 236px;
+    width: 223px;
+}
+
+.cmt {
+    margin-top: 10px;
+}
+
+.main-title {
+    background: #036eb4;
+    color: #ffffff;
+    padding: 10px 0;
+}
